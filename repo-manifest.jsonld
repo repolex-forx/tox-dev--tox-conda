@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-conda/commit/1bebdc94f3f183437ed8e90c57e30f960495da53",
       "git:hexsha": "1bebdc94f3f183437ed8e90c57e30f960495da53",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/tox-dev/tox-conda/commit/89e99362152937dad32096d09c9d63d129f4637a",
