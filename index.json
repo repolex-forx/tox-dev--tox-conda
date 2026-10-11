@@ -1,0 +1,11 @@
+{
+  "org": "tox-dev",
+  "repo": "tox-conda",
+  "versions": [
+    {
+      "commit": "1bebdc94f3f183437ed8e90c57e30f960495da53",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:35:01.753494+00:00"
+    }
+  ]
+}
